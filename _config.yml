@@ -1,5 +1,5 @@
 title: گربه قرمز
-description: وبلاگ امنیت سایبری | دارک‌وب، بدافزار، باج‌افزار و دفاع
+description: وبلاگ امنیت سایبری | دارک‌وب، بدافزار، باج‌افزار، RAT و دفاع
 url: "https://RedCat-2026.github.io"
 baseurl: ""
 
@@ -9,9 +9,4 @@ timezone: Asia/Tehran
 
 remote_theme: cotes2020/jekyll-theme-chirpy
 
-# تنظیمات Chirpy
-paginate: 5
-
-author:
-  name: گربه قرمز
-  bio: "کاوش در دنیای تاریک امنیت سایبری"
+paginate: 10
